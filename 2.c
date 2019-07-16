@@ -8,5 +8,5 @@ printf("Even");
 else if(a%2!=0)
 printf("Odd");
 else
-printf("Zero");
+printf("invalid");
 }
